@@ -1,0 +1,6 @@
+﻿  veh insurance final 1.1.cpp
+C:\Users\alexh\Desktop\veh insurance final 1.1\veh insurance final 1.1\veh insurance final 1.1.cpp(311,9): warning C4101: 'discount': unreferenced local variable
+C:\Users\alexh\Desktop\veh insurance final 1.1\veh insurance final 1.1\veh insurance final 1.1.cpp(745,9): warning C4101: 'choice': unreferenced local variable
+C:\Users\alexh\Desktop\veh insurance final 1.1\veh insurance final 1.1\veh insurance final 1.1.cpp(1543,10): warning C4101: 'endDate': unreferenced local variable
+C:\Users\alexh\Desktop\veh insurance final 1.1\veh insurance final 1.1\veh insurance final 1.1.cpp(1626,10): warning C4101: 'endDate': unreferenced local variable
+  veh insurance final 1.1.vcxproj -> C:\Users\alexh\Desktop\veh insurance final 1.1\Debug\veh insurance final 1.1.exe
