@@ -1,0 +1,3 @@
+﻿  Insurance v8.cpp
+C:\Users\perch\source\repos\Insurance v8\Insurance v8\Insurance v8.cpp(315,9): warning C4101: 'discount': unreferenced local variable
+C:\Users\perch\source\repos\Insurance v8\Insurance v8\Insurance v8.cpp(1067,1): error C2143: syntax error: missing ';' before '}'
