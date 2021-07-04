@@ -1,0 +1,6 @@
+﻿  Insurance v89.cpp
+C:\Users\perch\source\repos\Insurance v89\Insurance v89\Insurance v89.cpp(315,9): warning C4101: 'discount': unreferenced local variable
+C:\Users\perch\source\repos\Insurance v89\Insurance v89\Insurance v89.cpp(1049,9): warning C4101: 'choice': unreferenced local variable
+C:\Users\perch\source\repos\Insurance v89\Insurance v89\Insurance v89.cpp(1857,10): warning C4101: 'endDate': unreferenced local variable
+C:\Users\perch\source\repos\Insurance v89\Insurance v89\Insurance v89.cpp(1940,10): warning C4101: 'endDate': unreferenced local variable
+  Insurance v89.vcxproj -> C:\Users\perch\source\repos\Insurance v89\Debug\Insurance v89.exe
